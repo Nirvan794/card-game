@@ -1,0 +1,17 @@
+com\sathat\enums\Suit.class
+com\sathat\Main.class
+com\sathat\model\Deck.class
+com\sathat\model\PlayedCard.class
+com\sathat\model\Player.class
+com\sathat\rules\HandWinnerCalculator.class
+com\sathat\service\HandService.class
+com\sathat\enums\GameStatus.class
+com\sathat\model\Team.class
+com\sathat\model\Hand.class
+com\sathat\enums\Rank.class
+com\sathat\service\GameService.class
+com\sathat\model\Card.class
+com\sathat\enums\TeamId.class
+com\sathat\rules\CardPlayValidator.class
+com\sathat\model\Game.class
+com\sathat\service\DealService.class

@@ -1,0 +1,17 @@
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\enums\GameStatus.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\enums\Rank.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\enums\Suit.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\enums\TeamId.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\Main.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\model\Card.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\model\Deck.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\model\Game.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\model\Hand.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\model\PlayedCard.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\model\Player.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\model\Team.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\rules\CardPlayValidator.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\rules\HandWinnerCalculator.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\service\DealService.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\service\GameService.java
+C:\Users\omen 15x\Documents\University\card-game\sathat\src\main\java\com\sathat\service\HandService.java
